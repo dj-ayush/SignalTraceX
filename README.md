@@ -44,7 +44,7 @@ SignalTraceX/
 ├── main.py           - Main CLI entry point  
 ├── requirements.txt  - Python dependencies  
 ├── .gitignore  
-├── README.md  
+└── README.md  
 
 ---
 
