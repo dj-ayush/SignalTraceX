@@ -1,0 +1,4 @@
+bleak>=0.21.1
+python-dotenv>=1.0.0
+rich>=13.7.0
+click>=8.1.7
